@@ -11,6 +11,7 @@ HTTP, or Hypertext Transfer Protocol, is the protocol used for communication bet
 
 This repository serves as a handy reference guide for understanding the most used HTTP status codes, their purposes, and how they can be handled in different scenarios.
 
+
 ## Most Used HTTP Status Codes
 
 ### Informational Responses - 1xx
