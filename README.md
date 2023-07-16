@@ -9,7 +9,9 @@ HTTP Status Codes Repository is a comprehensive collection of the most commonly 
 
 HTTP, or Hypertext Transfer Protocol, is the protocol used for communication between a client (e.g., a web browser) and a server. When a client makes a request to a server, the server responds with an HTTP status code to indicate the outcome of the request. Status codes are three-digit numbers grouped into different categories, each conveying a specific meaning.
 
-This repository serves as a handy reference guide for understanding the most used HTTP status codes, their purposes, and how they can be handled in different scenarios.
+**This repository serves as a handy reference guide for understanding the most used HTTP status codes, their purposes, and how they can be handled in different scenarios.**
+
+![http_codes](https://github.com/JubairRahman/HTTP_Status_code/assets/84774437/fc44e206-a5a9-4b01-ade5-e9f9fc53d074)
 
 
 ## Most Used HTTP Status Codes
